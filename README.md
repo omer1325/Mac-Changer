@@ -1,4 +1,4 @@
-# Mac-Changer
+# MAC-CHANGER
 
 
 # What IS MAC CHANGER ?
